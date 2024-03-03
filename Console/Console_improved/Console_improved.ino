@@ -74,9 +74,9 @@ void pongOyunu(){
   Serial.println("pong");
 lcd.clear();
 while(isGameOn){
-//labirent code
+//pong code
 
-//labirent code
+//pong code
 loop();
   }
 }
